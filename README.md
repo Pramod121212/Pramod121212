@@ -72,11 +72,22 @@
 
 ---
 
-### 📫 Let's Connect
+### 🌐 Connect With Me
 
-- 📧 Email: **pramodmullappilly288@gmail.com**
-- 💼 [LinkedIn](www.linkedin.com/in/pramod-m-a39224271)
-- 🌐 [Portfolio]
+<p align="center">
+  <a href="https://www.linkedin.com/in/pramod-m-a39224271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/pr4_mod_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/919645668768" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:pramodmullappilly288@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
