@@ -17,7 +17,7 @@
 
 - 🎓 Recent B.Tech graduate from **GEC KOZHIKODE**
 - 🌍 Based in **Kerala, India**
-- 🔧 Currently exploring opportunities in **Instrumentation, Embedded Systems**, and **Rig-based roles**
+- 🔧 Currently exploring opportunities in **Instrumentation, Embedded Systems**
 - 🛠️ Hands-on with **LoRa (RA-02), ESP32, Arduino, Nextion Displays**, and more
 - 📚 Learning: **Embedded C**, **FreeRTOS**, and **Industrial Automation**
 - ✍️ Writing code that interacts with the physical world 🌍
