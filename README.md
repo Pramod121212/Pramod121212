@@ -4,11 +4,14 @@
 
 
 
-## Hey there! I'm Pramod 👋
-
-Welcome to my GitHub profile! I'm an enthusiastic **Applied Electronics & Instrumentation** graduate passionate about embedded systems, IoT, and automation. Always learning, always building. 💡
+<!-- 📝 Typing Intro -->
+<h3 align="center">Hi there 👋 I'm Pramod</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Embedded+Systems+Engineer;RTOS+%7C+CAN+%7C+MCAL+Learner;Instrumentation+%7C+IoT+%7C+Automation" alt="Typing SVG" />
+</p>
 
 ---
+
 
 ### 👨‍💻 About Me
 
@@ -21,17 +24,31 @@ Welcome to my GitHub profile! I'm an enthusiastic **Applied Electronics & Instru
 
 ---
 
-### 🚀 Projects & Skills
+### 🛠️ Tools & Technologies
 
-| ⚙️ Tech Stack | 🔬 Projects |
-|--------------|-------------|
-| `ESP32`, `Arduino`, `LoRa`, `C/C++`, `Python` | 📡 LoRa Master-Slave Communication |
-| `Nextion HMI`, `OLED`, `I2C`, `SPI` | 🖥️ Interactive Touch Control using Nextion |
-| `Instrumentation Tools`, `Sensors`, `Relays` | 🛢️ Industrial Control Simulations |
-| `Visual Studio`, `Thonny`, `Proteus`, `KiCAD` | 🧪 Circuit Simulations & PCB Design |
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=for-the-badge)
+![LoRa](https://img.shields.io/badge/LoRa-00A6D6?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCAD-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 
 ---
 
+
+### 🚀 Projects & Skills
+
+| ⚙️ Tech Stack | 🧪 Notable Projects |
+|--------------|----------------------|
+| `ESP32`, `Arduino`, `LoRa`, `C/C++`, `Python` | 📡 **LoRa Master-Slave Communication System** |
+| `Nextion HMI`, `OLED`, `I2C`, `SPI` | 🖥️ **Interactive Touch UI for Device Control** |
+| `Sensors`, `Instrumentation Tools`, `Relays` | 🛢️ **Industrial Control Simulations** |
+| `Proteus`, `KiCAD`, `Thonny`, `Visual Studio` | 🧾 **Circuit Simulation & PCB Prototypes** |
+
+---
 ### 📈 GitHub Stats
 
 <p align="center">
