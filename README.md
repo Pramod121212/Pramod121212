@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Neon Glitch Twitch Banner.gif" alt="Pramod Introduction" width="80%" />
+</p>
+
+
+
 ## Hey there! I'm Pramod 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic **Applied Electronics & Instrumentation** graduate passionate about embedded systems, IoT, and automation. Always learning, always building. 💡
