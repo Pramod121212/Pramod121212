@@ -51,9 +51,9 @@ Welcome to my GitHub profile! I'm an enthusiastic **Applied Electronics & Instru
 
 ### 📫 Let's Connect
 
-- 📧 Email: **pramod.yourmail@example.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(if any)*
+- 📧 Email: **pramodmullappilly288@gmail.com**
+- 💼 [LinkedIn](www.linkedin.com/in/pramod-m-a39224271)
+- 🌐 [Portfolio]
 
 ---
 
