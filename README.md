@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Neon Glitch Twitch Banner.gif" alt="Pramod Introduction" width="80%" />
+  <img src="Neon Glitch Twitch Banner .gif" alt="Pramod Introduction" width="80%" />
 </p>
 
 
