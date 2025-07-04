@@ -23,20 +23,33 @@
 - ✍️ Writing code that interacts with the physical world 🌍
 
 ---
+## 🛠️ Tools & Technologies
 
-### 🛠️ Tools & Technologies
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)  
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003865?style=for-the-badge&logo=freertos&logoColor=white)  
-![LoRa](https://img.shields.io/badge/LoRa-00A6D6?style=for-the-badge&logo=semtech&logoColor=white)  
-![CAN](https://img.shields.io/badge/CAN-orange?style=for-the-badge)  
-![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)  
+### Microcontrollers & Frameworks
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003865?style=for-the-badge&logo=freertos&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-00A6D6?style=for-the-badge&logo=semtech&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN-orange?style=for-the-badge)
+
+### IDEs & Toolchains
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Keil uVision](https://img.shields.io/badge/Keil_uVision-0086CB?style=for-the-badge&logo=arm&logoColor=white)
+![MPLAB X IDE](https://img.shields.io/badge/MPLAB%20X%20IDE-CC0000?style=for-the-badge&logo=microchip&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python IDLE](https://img.shields.io/badge/Python%20IDLE-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### Circuit Design & Simulation
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1F1F1F?style=for-the-badge&logoColor=white)
 
 ---
+
 
 #### 🧠 Microcontrollers & Embedded Platforms
 
